@@ -1,6 +1,5 @@
 # Universidade Paulista - UNIP
 # Disciplina: Sistemas Operacionais Aberto
-# Aluno: Daniel Pinheiro MATRICULA: D414496
 
 # ALGORITMO DE SUBSTITUIÇÂO DE PÁGINA - LRU (Least Recently Used)
   
